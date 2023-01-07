@@ -72,3 +72,38 @@ header{
     /* margin-bottom: 100px; */
     bottom: 400px;
 }
+.ul-lists{
+    color: #444343;
+    font-weight: 400;
+    padding-top: 24px;
+    font-size: 16px;
+    margin-left: 1000px;
+    list-style: none;
+    
+}
+.what-i-plan{
+    margin-top: 130px;
+    text-align: center;
+}
+.skills-container{
+    display: flex;
+    gap: 30px;
+    margin-top: 170px;
+}
+.skill{
+    background:#FFFFFF;
+    /* box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06); */
+    border-radius: 5px;
+    padding: 30px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.skill-description{
+    color: #757575;
+    font-weight: 500;
+    font-size: 25px;
+}
