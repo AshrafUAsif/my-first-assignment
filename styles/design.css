@@ -126,3 +126,39 @@ header{
     /* line-height: 29px; */
     /* text-align: left; */
 }
+.call-me{
+    margin-top: 200px;
+    inline-size: 700px;
+    margin-left: 300px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    background: url('../images/watch.png') , url('../images/gradient2.png');
+    border-radius: 8px;
+    background-position: center;
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    padding: 130px 230px;
+    /* background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%); */
+}
+.call-me-container{
+    margin: 45px 60px;
+}
+.call-title{
+    inline-size: 600px;
+    margin-bottom: 24px;
+}
+.btn-secondary{
+    /* margin-top: 24px; */
+    color: #fd6e0a;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    width: 150px;
+    height: 64px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+}
