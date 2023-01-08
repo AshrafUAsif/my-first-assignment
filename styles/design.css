@@ -78,8 +78,23 @@ header{
     padding-top: 24px;
     font-size: 16px;
     margin-left: 1000px;
-    list-style: none;
-    
+     list-style: none;
+}
+.i-do{
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.skills-container{
+    display: flex;
+    gap: 5px;
+    margin-top: 100px;
+}
+.skill{
+    border-radius: 5px;
+    padding-left: 210px;
 }
 .second-section-title{
     /* margin-top: 130px; */
@@ -87,21 +102,8 @@ header{
     font-weight: 700;
     font-size: 40px;
 }
-.skills-container{
-    display: flex;
-    /* gap: 30px; */
-    margin: 50px 230px 130px 350px;
-}
-.skill{
-    width: 1141px;
-    height: 200px;
-    /* background:#FFFFFF; */
-    /* box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06); */
-    /* border-radius: 5px; */
-    /* padding-bottom: 20px; */
-   
 
-}
+
 .skill-title{
     width: 270px;
     height: 35px;
@@ -112,15 +114,15 @@ header{
    
 }
 .skill-description{
-    width: 177px;
+    /* width: 177px; */
     /* height: 29px; */
-    color: #757575;
+    color: #737272;
     font-weight: 500;
     font-size: 25px;
     /* margin-right: 20px; */
     /* inline-size: 350px; */
     margin-top: 16px;
     /* text-align: left; */
-    line-height: 29px;
-    text-align: left;
+    /* line-height: 29px; */
+    /* text-align: left; */
 }
