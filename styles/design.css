@@ -162,3 +162,33 @@ header{
     border: none;
     border-radius: 5px;
 }
+/* Contact Styles */
+footer{
+    display: flex;
+    gap: 330px;
+    background: #151414;
+    color: #FFFFFF;
+    padding: 130px 220px;
+}
+
+.subscribe-title{
+    padding-bottom: 30px;
+}
+.contact-me input[type="email"], textarea{
+    margin-bottom: 30px;
+    border: 0;
+    width: 325px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    color: #151414;
+}
+.footer-title{
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 16px;
+}
+.footer-description{
+    inline-size: 450px;
+    margin-bottom: 16px;
+}
