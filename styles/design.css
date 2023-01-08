@@ -165,10 +165,10 @@ header{
 /* Contact Styles */
 footer{
     display: flex;
-    gap: 330px;
+    gap: 380px;
     background: #151414;
     color: #FFFFFF;
-    padding: 130px 220px;
+    padding: 150px 470px;
 }
 
 .subscribe-title{
@@ -176,6 +176,7 @@ footer{
 }
 .contact-me input[type="email"], textarea{
     margin-bottom: 30px;
+    text-align:justify;
     border: 0;
     width: 325px;
     height: 64px;
@@ -186,9 +187,8 @@ footer{
 .footer-title{
     font-weight: 700;
     font-size: 45px;
-    margin-bottom: 16px;
+    padding-bottom: 16px;
 }
 .footer-description{
-    inline-size: 450px;
-    margin-bottom: 16px;
+    padding-bottom: 16px; 
 }
