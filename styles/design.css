@@ -173,6 +173,8 @@ footer{
 
 .subscribe-title{
     padding-bottom: 30px;
+    font-weight: 600;
+    font-size: 25px;
 }
 .contact-me input[type="email"], textarea{
     margin-bottom: 30px;
